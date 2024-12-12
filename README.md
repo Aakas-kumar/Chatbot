@@ -27,8 +27,8 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <[repository-url](https://github.com/Aakas-kumar/Chatbot.git)>
+
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -84,7 +84,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **NLTK** for natural language processing.
 - **Scikit-learn** for machine learning algorithms.
 - **Streamlit** for building the web interface.
-
----
-
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
